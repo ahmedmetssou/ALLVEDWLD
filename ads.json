@@ -1,6 +1,6 @@
 {
   "ADS": {
-    "ENABLED": true,
+    "ENABLED": false,
     "NETWORK": "ADMOB",
     "INTERSTITIAL_PER_SESSION": 150,
     "ADMOB": {
