@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "test_mode": true,
+  "native_enabled": true,
+  "interstitial_enabled": true,
+  "interstitial_on_analyze": true,
+  "interstitial_before_play": true,
+  "interstitial_cooldown_seconds": 30,
+  "admob_native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_test_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "levelplay_app_key": "",
+  "levelplay_interstitial_ad_unit_id": "",
+  "levelplay_banner_ad_unit_id": "",
+  "levelplay_rewarded_ad_unit_id": "",
+  "app_open_enabled": false,
+  "banner_enabled": false,
+  "rewarded_enabled": false
+}
