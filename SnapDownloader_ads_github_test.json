@@ -18,12 +18,13 @@
   "levelplay_interstitial_ad_unit_id": "",
   "levelplay_banner_ad_unit_id": "",
   "levelplay_rewarded_ad_unit_id": "",
+  "update_enabled": true,
   "latest_version_code": 3,
   "minimum_version_code": 3,
   "title": "SnapDownloader update available",
   "message": "A new version of SnapDownloader is available. Update to get the latest improvements.",
   "update_url": "https://play.google.com/store/apps/details?id=com.snapdownloader.video.download",
-  "future_features_not_connected_in_v4": {
+  "features": {
     "smart_clipboard_enabled": true,
     "instagram_enabled": true,
     "facebook_enabled": true,
