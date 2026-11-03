@@ -1,6 +1,6 @@
 {
-  "enabled": true,
-  "test_mode": true,
+  "enabled": false,
+  "test_mode": false,
   "test_interstitial_provider": "levelplay",
   "admob_test_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "native_enabled": true,
