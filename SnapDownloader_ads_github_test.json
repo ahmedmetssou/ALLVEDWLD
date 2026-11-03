@@ -11,13 +11,13 @@
   "app_open_cooldown_seconds": 180,
   "banner_enabled": false,
   "rewarded_enabled": false,
-  "admob_native_ad_unit_id": "ca-app-pub-394025609994254/22496110",
-  "admob_test_interstitial_id": "ca-app-pub-3940256099254/1033173712",
-  "admob_app_open_ad_unit_id": "ca-app-pub-39402560942544/9257395921",
-  "levelplay_app_key": "",
-  "levelplay_interstitial_ad_unit_id": "",
-  "levelplay_banner_ad_unit_id": "",
-  "levelplay_rewarded_ad_unit_id": "",
+  "admob_native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_test_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+  "levelplay_app_key": "25b63cf85",
+  "levelplay_interstitial_ad_unit_id": "h3xw38h9214adgxo",
+  "levelplay_banner_ad_unit_id": "4fpetq4lhe5lsw3e",
+  "levelplay_rewarded_ad_unit_id": "syz3d8ekts22q0or",
   "update_enabled": true,
   "latest_version_code": 3,
   "minimum_version_code": 3,
@@ -36,5 +36,6 @@
     "maintenance_mode": false,
     "announcement_enabled": false,
     "announcement_text": ""
-  }
+  },
+  "test_interstitial_provider": "admob"
 }
