@@ -1,37 +1,30 @@
-
 {
   "enabled": true,
   "test_mode": true,
   "test_interstitial_provider": "levelplay",
-
-  "banner_enabled": true,
-  "levelplay_app_key": "25b63cf85",
-  "levelplay_banner_ad_unit_id": "4fpetq4lhe5lsw3e",
-
+  "admob_test_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "native_enabled": true,
   "interstitial_enabled": true,
   "interstitial_on_analyze": true,
   "interstitial_before_play": true,
   "interstitial_cooldown_seconds": 90,
-  "levelplay_interstitial_ad_unit_id": "h3xw38h9214adgxo",
-
-  "native_enabled": true,
-  "admob_native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
-
   "app_open_enabled": true,
   "app_open_min_background_seconds": 60,
   "app_open_cooldown_seconds": 180,
-  "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
-
+  "banner_enabled": true,
   "rewarded_enabled": false,
+  "admob_native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+  "levelplay_app_key": "25b63cf85",
+  "levelplay_interstitial_ad_unit_id": "h3xw38h9214adgxo",
+  "levelplay_banner_ad_unit_id": "4fpetq4lhe5lsw3e",
   "levelplay_rewarded_ad_unit_id": "",
-
   "update_enabled": true,
   "latest_version_code": 3,
   "minimum_version_code": 3,
   "title": "SnapDownloader update available",
   "message": "A new version of SnapDownloader is available. Update to get the latest improvements.",
   "update_url": "https://play.google.com/store/apps/details?id=com.snapdownloader.video.download",
-
   "features": {
     "smart_clipboard_enabled": true,
     "instagram_enabled": true,
